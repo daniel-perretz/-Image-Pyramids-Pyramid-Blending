@@ -6,7 +6,7 @@ Pyramids serve as a technique for seamlessly blending two images by combining th
 
 
 
-# Glance into some Pyramids
+# A glance into some Pyramids
 ![image](https://github.com/danielperretzhuji/-Image-Pyramids-Pyramid-Blending/assets/77243090/1c092dd8-a429-4063-8f93-a23362be5dbd)
 
 
